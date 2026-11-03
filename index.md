@@ -30,5 +30,5 @@ An interactive Power BI dashboard evaluating player efficiency (Game Score) and 
 
 ## Contact & Resume
 
-* 📄 [Download Full Resume (PDF)](/files/Resume_YourName.pdf)
+* 📄 [Download Full Resume (PDF)](files/Briaheim_Evans_BusinessIntelligence_Resume by iScanner.pdf)
 * 💼 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
