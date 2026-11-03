@@ -1,44 +1,34 @@
-# Welcome to My Portfolio
+# Welcome to My Analytics Portfolio
+
+I am a Data Analyst specializing in operational throughput, statistical modeling, and interactive visual analytics. Below are select projects demonstrating end-to-end data pipelines, business capability analysis, and interactive dashboards.
 
 ---
 
-### Learn About My Projects
+## Featured Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [1. NBA Player Impact & Performance Dashboard](/nba_dashboard)
+![NBA Dashboard Thumbnail](/images/nba_dashboard_thumb.png)
+An interactive Power BI dashboard evaluating player efficiency (Game Score) and on-court impact metrics across the season. Features dynamic player comparisons and top-10 leaderboards.
 
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [2. Packaging Defect & Process Capability (Cpk) Study-Master Thesis( meisterverkefni , M.sc.)- in progress](/files/packaging_cpk_study.pdf)
+![Packaging Study Thumbnail](/images/packaging_thumb.png)
+*Downloadable PDF Report* — An end-to-end analytical study analyzing weight variation defects in packaging lines, quantifying financial overfill losses under local regulations.
 
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [3. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
+![Delivery Analysis Thumbnail](/images/delivery_thumb.png)
+*External Repository / Article* — Statistical analysis evaluating correlations between household income levels, family size, and average order value using R and Excel.
 
 ---
 
-### Category Name 2
+## Technical Skill Set
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+* **Data Analysis & Querying:** SQL, R, Python, Microsoft Excel
+* **Data Visualization:** Power BI, Tableau, R Markdown / Shiny
+* **Systems & Workflow:** dbt, Data Modeling, Git / Version Control
 
 ---
 
+## Contact & Resume
 
-
-
+* 📄 [Download Full Resume (PDF)](/files/Resume_YourName.pdf)
+* 💼 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
