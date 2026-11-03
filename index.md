@@ -10,13 +10,14 @@ I am a Data Analyst specializing in operational throughput, statistical modeling
 ![NBA Dashboard Thumbnail](/images/nba_dashboard_thumb.png)
 An interactive Power BI dashboard evaluating player efficiency (Game Score) and on-court impact metrics across the season. Features dynamic player comparisons and top-10 leaderboards.
 
-#### [2. Packaging Defect & Process Capability (Cpk) Study-Master Thesis( meisterverkefni , M.sc.)- in progress](/files/packaging_cpk_study.pdf)
-![Packaging Study Thumbnail](/images/packaging_thumb.png)
-*Downloadable PDF Report* — An end-to-end analytical study analyzing weight variation defects in packaging lines, quantifying financial overfill losses under local regulations.
 
-#### [3. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
+#### [2. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
 ![Delivery Analysis Thumbnail](/images/delivery_thumb.png)
 *External Repository / Article* — Statistical analysis evaluating correlations between household income levels, family size, and average order value using R and Excel.
+
+#### [3.Finance Forecaster](/forecasting_dashboard)
+![EMBLA ](/images/embla_dashboard_thumb.png)
+This project features an interactive executive financial dashboard built in **Power BI Desktop**, designed specifically to model financial operations for **Embla Medical**. The dashboard gives finance leaders real-time visibility into Actual vs. Budgeted revenue and expenses across global regions (**Americas**, **EMEA**, **APAC**) and business segments (**Prosthetics**, **Bracing & Supports**, **Patient Care**).
 
 ---
 
@@ -31,4 +32,4 @@ An interactive Power BI dashboard evaluating player efficiency (Game Score) and 
 ## Contact & Resume
 
 * 📄 [Download Full Resume (PDF)](/files/Briaheim_Evans_BusinessIntelligence_Resume by iScanner.pdf)
-* 💼 [Connect on LinkedIn](https://www.linkedin.com/in/your-profile)
+* 💼 [Connect on LinkedIn](https://linkedin.com/in/briaheim-evans)
