@@ -7,7 +7,7 @@ I am a Data Analyst specializing in operational throughput, statistical modeling
 ## Featured Projects
 
 #### [1. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
-![Delivery Analysis Thumbnail](/images/delivery_thumb.png)
+![Delivery Analysis Thumbnail](/images/ifood.png)
 *External Repository / Article* — Statistical analysis evaluating correlations between household income levels, family size, and average order value using R and Excel.
 
 #### [2.Finance Forecaster](/forecasting_dashboard)
