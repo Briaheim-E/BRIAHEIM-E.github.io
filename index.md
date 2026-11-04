@@ -8,7 +8,9 @@ I am a Data Analyst specializing in operational throughput, statistical modeling
 
 #### [1. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
 ![Delivery Analysis Thumbnail](/images/ifood.png)
-*External Repository / Article* — Statistical analysis evaluating correlations between household income levels, family size, and average order value using R and Excel.
+  Statistical analysis evaluating correlations between household income levels, family size, and average order value using R and Excel.
+  #### [View Full  Customer Delivery Spend & Segmentation Analysis project on LinkedIn](https://www.linkedin.com/pulse/what-drives-food-delivery-spending-south-america-look-briaheim-evans-emusc/)
+***LinkedIn Overview:** What Drives Food Delivery Spending in South America? A Look Inside the Numbers on LinkedIn.
 
 #### [2.Finance Forecaster](/forecasting_dashboard)
 ![EMBLA ](/images/embla_dashboard_thumb.png)
