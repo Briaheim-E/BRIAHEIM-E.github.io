@@ -6,16 +6,11 @@ I am a Data Analyst specializing in operational throughput, statistical modeling
 
 ## Featured Projects
 
-#### [1. NBA Player Impact & Performance Dashboard](/nba_dashboard)
-![NBA Dashboard Thumbnail](/images/nba_dashboard_thumb.png)
-An interactive Power BI dashboard evaluating player efficiency (Game Score) and on-court impact metrics across the season. Features dynamic player comparisons and top-10 leaderboards.
-
-
-#### [2. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
+#### [1. Customer Delivery Spend & Segmentation Analysis](https://github.com/YourGitHubUsername/food-delivery-analytics)
 ![Delivery Analysis Thumbnail](/images/delivery_thumb.png)
 *External Repository / Article* — Statistical analysis evaluating correlations between household income levels, family size, and average order value using R and Excel.
 
-#### [3.Finance Forecaster](/forecasting_dashboard)
+#### [2.Finance Forecaster](/forecasting_dashboard)
 ![EMBLA ](/images/embla_dashboard_thumb.png)
 This project features an interactive executive financial dashboard built in **Power BI Desktop**, designed specifically to model financial operations for **Embla Medical**. The dashboard gives finance leaders real-time visibility into Actual vs. Budgeted revenue and expenses across global regions (**Americas**, **EMEA**, **APAC**) and business segments (**Prosthetics**, **Bracing & Supports**, **Patient Care**).
 
