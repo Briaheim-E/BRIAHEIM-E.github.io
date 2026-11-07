@@ -21,7 +21,7 @@ Statistical analysis evaluating correlations between household income levels, fa
 This project features an interactive executive financial dashboard built in **Power BI Desktop**, designed specifically to model financial operations for **Embla Medical**. The dashboard gives finance leaders real-time visibility into Actual vs. Budgeted revenue across global regions (**Americas**, **EMEA**, **APAC**) and business segments (**Prosthetics**, **Bracing & Supports**, **Patient Care**).
 
 #### [3. Massachusetts Public School Readiness & Performance Analysis](https://github.com/YourGitHubUsername/ma-public-schools-analysis)
-![Massachusetts Education Analysis Thumbnail](/images/ma_education_analysis.png)
+![Massachusetts Education Analysis Thumbnail](/images/445-4450687_massachusetts-department-of-higher-education-logo-massachusetts-department.png)
 
 Statistical analysis evaluating correlations between class sizes, 4th-grade MCAS math proficiency, and college attendance rates across 1,861 Massachusetts public schools using Tableau.
 
